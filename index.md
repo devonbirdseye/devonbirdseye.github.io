@@ -10,8 +10,8 @@
 <img src="images/tmt.cpm.RIL.6H.Hyb2MP.cor.densities.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Comparison of the CV of proteomics to transcriptomics](/CV)
+<img src="images/CV.jpg?raw=true"/>
 
 ---
 
