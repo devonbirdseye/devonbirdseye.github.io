@@ -15,4 +15,4 @@
 ### Project 2: Characterization of a predicted glycosyltransferase enzyme
 
 [Immunolabeling cell wall epitopes in mutants](/duf23)
-<img src="images/Fig_Nb13373_CoMPP.png?raw=true"/>
+<img src="images/Fig_DUF23OE_ELISA.png?raw=true"/>
