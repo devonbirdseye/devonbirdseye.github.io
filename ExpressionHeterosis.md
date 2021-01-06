@@ -9,4 +9,3 @@ In the figure above, the x-axes show that protein expression of Photosynthesis-A
 <img src="images/cpm.6H.plastid.jpg?raw=true"/>
 
 In the figure above, the x-axes show that mRNA expression of PhANGs and NE plastid ribosomes are not consistently expressed above mid-parent levels as they are in the proteome. The y-axes show that expression of these mRNAs is variable across different inbred parents, though the pattern is discordant with the proteome.
-
