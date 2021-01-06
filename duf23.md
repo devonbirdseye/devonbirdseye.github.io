@@ -1,0 +1,13 @@
+## Immunolabeling cell wall epitopes in mutant plants
+
+**Project description:** Pectins are the most complex polysaccharides of plant cell walls, with an estimated 67 transferases expected to be involved in their biosynthesis, most of which have not been identified. β-1,4-Galactans constitute a major part of pectin as side chains of rhamnogalacturonan-I (RG-I). Glycosyltransferase family GT92 comprises three β-1,4-galactan synthases (GALS1-3) in Arabidopsis, which catalyze the addition of galactose units from UDP-Gal to growing β-1,4-galactan chains. We identified a highly conserved gene encoding a putative glycosyltransferase related to GT family 92, Galactan Synthase- Like (GSL). Overexpression of this gene in Arabidopsis resulted in plants with a 30% increase in accumulated galactose, while the loss-of-function mutant had a 20% reduction in galactose accumulation. Like the GALS overexpressors and mutants, the plants did not have an obvious growth phenotype. Cell wall galactose content of the quadruple loss-of-function mutant in GALS1-3 and GSL was not significantly different from that of the GALS triple mutant. The data suggest that GSL is involved in the initial addition of galactose residues to RG-I, while GALS1-3 are involved in the extension of the β-1,4-galactan chains. Co-overexpression of GSL and GALS1 resulted in plants with 75% higher total cell wall galactose compared to plants overexpressing GALS1 alone, suggesting a non-redundant molecular function. Characterization of the GSL enzyme could provide an approach to engineering plants with an increased ratio of C6 to C5 sugars, a key objective for production of second-generation biofuel.
+
+**Result:** We found the cell walls of GSL mutant, overexpressor, and silenced plants to have altered glycan linkages consistent with a role in β-1,4-galactan biosynthesis.
+
+<img src="images/Fig_Nb13373_CoMPP.png?raw=true"/>
+
+**Figure 1.** CoMPP analysis of CDTA and NaOH-soluble fractions of NbGSL-silenced cell wall material. Data show the percent difference in relative mean signal of silenced lines compared to control. Both analytes had reduced β-1,4-galactose (LM5) detection as well as altered AGP profiling.
+
+<img src="images/Fig_DUF23OE_ELISA.png?raw=true"/>
+
+**Figure 2.** ELISA analysis of fractionated cell wall material from leaf tissue of plants overexpressing GSR with selected plant-glycan directed monoclonal antibodies. Heat map shows differences in antibody binding in 35s:GSR plants compared to wild type. Compared with wild type, xyloglucan and pectin epitopes were decreased in easily-extractable fractions and enriched in the more tightly-bound cell wall fractions. AGP epitope profiles were differentially altered, with an overall increase across fractions.
