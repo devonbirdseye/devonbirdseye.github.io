@@ -14,3 +14,5 @@
 ---
 ### Project 2: Characterization of a predicted glycosyltransferase enzyme
 
+[Immunolabeling cell wall epitopes in mutants](/ExpressionHeterosis)
+<img src="images/Fig_Nb13373_CoMPP.png?raw=true"/>
