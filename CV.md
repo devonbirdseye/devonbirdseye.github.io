@@ -6,5 +6,5 @@
 
 <img src="images/CV.jpg?raw=true"/>
 
-**Figure 1.** Violin plots representing the median coefficients of variation of the B73xMo17 hybrid biological replicates for proteins compared to their corresponding transcripts.
+**Figure 1.** Violin plot representing the median coefficients of variation of the B73xMo17 hybrid biological replicates for proteins compared to their corresponding transcripts. Data represent three independent experiments.
 
