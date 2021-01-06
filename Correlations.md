@@ -6,7 +6,7 @@
 
 <img src="images/tmt.cpm.RIL.6H.Hyb2MP.cor.densities.jpg?raw=true"/>
 
-**Figure 1.** Density curves representing the Pearson correlation of mRNA/protein expression heterosis of each category with plant height heterosis
+**Figure 1.** Density curves representing the Pearson correlation of mRNA/protein expression heterosis of each category with plant height heterosis.
 
 <img src="images/tmt.PlastidRiboCor.Hyb2MP.jpg?raw=true"/>
 
