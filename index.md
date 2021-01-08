@@ -19,7 +19,7 @@
 <img src="images/Fig_DUF23OE_ELISA.png?raw=true"/>
 
 [High-performance anion exchange chromatography analysis of mutants](/duf23.hpaec)
-<img src="images/duf23.hpaec.png?raw=true"/>
+<img src="images/180424_DUF23_HPAEC.png?raw=true"/>
 
 ---
 ### Project 3: Comparison of maize genome annotation versions
