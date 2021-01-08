@@ -6,4 +6,4 @@
 
 <img src="images/180424_DUF23_HPAEC.png?raw=true"/>
 
-**Figure 1.** HPAEC analysis of cell wall material from Arabidopsis leaves. Data represent averages of seven biological replicates.
+**Figure 1.** HPAEC analysis of cell wall material from Arabidopsis leaves. Data represent averages of seven biological replicates. Error bars represent standard deviations.
