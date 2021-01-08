@@ -16,3 +16,9 @@
 
 [Immunolabeling cell wall epitopes in mutants](/duf23)
 <img src="images/Fig_DUF23OE_ELISA.png?raw=true"/>
+
+---
+### Project 3: Comparison of maize genome annotation versions
+
+[Identifying shared and unique gene sets](/v4pro)
+<img src="images/ProteinVen.png?raw=true"/>
