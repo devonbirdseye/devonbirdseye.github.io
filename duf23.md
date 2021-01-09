@@ -11,3 +11,5 @@
 <img src="images/Fig_DUF23OE_ELISA.png?raw=true"/>
 
 **Figure 2.** ELISA analysis of fractionated cell wall material from leaf tissue of plants overexpressing GSL with selected plant-glycan directed monoclonal antibodies. Heat map shows differences in antibody binding in 35s:AtGSL plants compared to wild type. Compared with wild type, xyloglucan and pectin epitopes were decreased in easily-extractable fractions and enriched in the more tightly-bound cell wall fractions. AGP epitope profiles were differentially altered, with an overall increase across fractions.
+
+[Click here to view code](https://github.com/devonbirdseye/DUF23/blob/master/DUF23.Rmd)
