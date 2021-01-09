@@ -8,10 +8,14 @@
 
 <img src="images/tmt.6H.plastid.jpg?raw=true"/>
 
-**Figure 1.** Expression heterosis (hybrid/mid-parent) in the proteome of six maize hybrids. The x-axes show that protein expression of Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Nuclear-Encoded (NE) plastid ribosomes and Plastid-Encoded (PE) plastid ribosomes are consistently expressed above mid-parent levels in hybrids. The y-axes show that expression of these proteins is variable across different inbred parents.
+**Figure 1.** Expression heterosis (hybrid/mid-parent) in the proteome of six maize hybrid seedling leaves. The x-axes show that protein expression of Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Nuclear-Encoded (NE) plastid ribosomes and Plastid-Encoded (PE) plastid ribosomes are consistently expressed above mid-parent levels in hybrids. The y-axes show that expression of these proteins is variable across different inbred parents. Each datapoint represents the mean of three biological replicates.
 
 <img src="images/cpm.6H.plastid.jpg?raw=true"/>
 
-**Figure 2.** Expression heterosis (hybrid/mid-parent) in the transcriptome of six maize hybrids. The x-axes show that mRNA expression of PhANGs and NE plastid ribosomes are not consistently expressed above mid-parent levels as they are in the proteome. The y-axes show that expression of these mRNAs is variable across different inbred parents, though the pattern is discordant with the proteome.
+**Figure 2.** Expression heterosis (hybrid/mid-parent) in the transcriptome of six maize hybrid seedling leaves. The x-axes show that mRNA expression of PhANGs and NE plastid ribosomes are not consistently expressed above mid-parent levels as they are in the proteome. The y-axes show that expression of these mRNAs is variable across different inbred parents, though the pattern is discordant with the proteome. Each datapoint represents the mean of three biological replicates.
+
+<img src="images/tmt.cpm.SL.acs.vol.pdf?raw=true"/>
+
+**Figure 3.** Volcano plot showing expression heterosis of ethylene biosynthesis enzymes in the proteome (A) and transcriptome (B) of the B73xMo17 hybrid seedling leaf from the original experiment. Of the five enzymes for which the mutant is known to produce reduced ethylene (ACS2, ACS6, ACO1, ACO2, and SAMS1), two were detected in the proteome (ZmACO2 and ZmSAMS1) and three were detected in the transcriptome (ZmACS2, ZmACO2 and ZmSAMS1). Each datapoint represents the mean of three biological replicates.
 
 [Click here to view code](https://github.com/devonbirdseye/HeterosisManuscript/blob/master/DataAnalyses.Rmd)
