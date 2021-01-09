@@ -11,3 +11,5 @@
 <img src="images/tmt.PlastidRiboCor.Hyb2MP.jpg?raw=true"/>
 
 **Figure 2.** Violin plot displaying the linear relationship between expression heterosis of the PE plastid ribosome proteins with plant height heterosis.
+
+[Click here to view code](https://github.com/devonbirdseye/HeterosisManuscript/blob/master/DataAnalyses.Rmd)
