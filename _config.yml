@@ -2,11 +2,13 @@ title: Devon Birdseye, Ph.D.
 logo: "/images/devonHeadshot.png?raw=true" 
 description: > 
   Computational Biologist
-  <br><br>
+  <br>
   Specialization in molecular biology, biochemistry, omics, statistical analysis and data visualization in R
   <br><br>
   <a href="https://www.linkedin.com/in/devon-birdseye/">View My LinkedIn Profile</a> 
+  <br>
   <a href="https://scholar.google.com/citations?hl=en&user=oKiVX_sAAAAJ&view_op=list_works&sortby=pubdate">View My Google Scholar Profile</a> 
+  <br>
   <a href="https://orcid.org/0000-0003-1767-8486">View My ORCID</a> 
   
 theme: jekyll-theme-minimal
