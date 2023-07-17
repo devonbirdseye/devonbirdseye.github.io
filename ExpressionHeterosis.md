@@ -15,8 +15,9 @@
 **Figure 2.** Expression heterosis (hybrid/mid-parent) in the transcriptome of six maize hybrid seedling leaves. The x-axes show that mRNA expression of PhANGs and NE plastid ribosomes are not consistently expressed above mid-parent levels as they are in the proteome. The y-axes show that expression of these mRNAs is variable across different inbred parents, though the pattern is discordant with the proteome. Each datapoint represents the mean of three biological replicates.
 <br><br>
 <br><br>
-<img src="images/tmt.cpm.SL.acs.vol.png?raw=true"/>
+<img src="images/ethylene.jpg?raw=true"/>
 
-**Figure 3.** Volcano plot showing expression heterosis of ethylene biosynthesis enzymes in the proteome (A) and transcriptome (B) of the B73xMo17 hybrid seedling leaf from the original experiment. Of the five enzymes for which the mutant is known to produce reduced ethylene (ACS2, ACS6, ACO1, ACO2, and SAMS1), two were detected in the proteome (ZmACO2 and ZmSAMS1) and three were detected in the transcriptome (ZmACS2, ZmACO2 and ZmSAMS1). Each datapoint represents the mean of three biological replicates.
+**Figure 3.** Volcano plot of protein expression in the acs2-6 double mutant in B73 background relative to B73. Each data point represents the mean of five biological replicates. Colors correspond to their expression pattern in the hybrid A682xB73 relative to mid-parent. (B) Protein levels in the acs2-6 double mutant in B73 background relative to B73 on the x-axis, compared to expression in A682xB73 relative to MP on the y-axis. Points to the left or right of the vertical dotted line correspond to proteins that are below mid-parent or above mid-parent, respectively. Proteins above or below the horizontal dotted line correspond to proteins that are over-expressed or under-expressed in the mutant, respectively. Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Plastid-Encoded (PE) plastid ribosomes, Nuclear-Encoded (NE) plastid ribosomes, and ethylene biosynthesis proteins are color-coded.![image](https://github.com/devonbirdseye/devonbirdseye.github.io/assets/54249382/152f2a66-2805-43e5-80f0-e0d1770e5fd0)
+
 
 [Click here to view code](https://github.com/devonbirdseye/HeterosisManuscript/blob/master/DataAnalyses.Rmd)
