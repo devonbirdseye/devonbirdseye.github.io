@@ -6,7 +6,6 @@ I found that the abundance of plastid protein complexes, consisting of subunits 
 
 [Click here to try the shiny app I developed to visualize expression heterosis of your gene of interest!](https://devonbirdseye.shinyapps.io/ExpressionViewer/)
 
-[Click here to view my publication of this work](https://www.pnas.org/doi/abs/10.1073/pnas.2109332118)
 
 <img src="images/expressionhet_legend.jpg?raw=true"/>
 
