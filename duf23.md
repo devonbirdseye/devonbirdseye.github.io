@@ -1,4 +1,4 @@
-## Immunolabeling cell wall epitopes in mutant plants
+## Project 3: Immunolabeling cell wall epitopes in mutant plants
 
 I found that the cell walls of GSL-silenced and overexpressor plants to have altered glycan linkages consistent with a role in β-1,4-galactan biosynthesis.
 
