@@ -8,7 +8,7 @@
 
 <img src="images/expressionhet_legend.jpg?raw=true"/>
 
-**Figure 1.** Volcano plots showing expression levels of proteins (A) and transcripts (B) in seedling leaves of the maize hybrid, B73xMo17, relative to mid-parent (MP) levels. Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Nuclear-Encoded (NE) plastid ribosomes and Plastid-Encoded (PE) plastid ribosomes are color-coded. Each datapoint represents the mean of three biological replicates.
+**Figure 1.** Volcano plots showing expression levels of proteins (A) and transcripts (B) in seedling leaves of the B73xMo17 (BxM) hybrid relative to mid-parent (MP) levels. Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Nuclear-Encoded (NE) plastid ribosomes and Plastid-Encoded (PE) plastid ribosomes are color-coded. Each datapoint represents the mean of three biological replicates.
 
 <br><br>
 <img src="images/ethylene.jpg?raw=true"/>
