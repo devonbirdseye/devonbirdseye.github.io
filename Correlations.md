@@ -4,6 +4,6 @@
 
 **Result:** I found that plant height heterosis (hybrid/mid-parent plant height) was correlated most positively with protein expression heterosis (hybrid/mid-parent protein expression) of ribosomal proteins, and most negatively correlated with expression heterosis of stress-response pathways. mRNA levels were less correlated than protein levels, indicating a role of post-transcriptional regulation in heterosis. In the figure below, density curves represent the Pearson correlations between expression heterosis and plant height heterosis for groups of proteins that were significantly correlated.
 
-<img src="images/correlations.jpg?raw=true"/>
+<img src="images/correlations2.jpg?raw=true"/>
 
 [Click here to view code](https://github.com/devonbirdseye/HeterosisManuscript/blob/master/DataAnalyses.Rmd)
