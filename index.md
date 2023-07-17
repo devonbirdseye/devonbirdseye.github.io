@@ -3,9 +3,9 @@
 ---
 ### Project 1: Investigation of the molecular basis of heterosis using proteomics and transcriptomics
 
-Heterosis, or hybrid vigor, refers to the superior performance of F1 hybrids relative to their inbred parents. The agriculture industry has utilized this phenomenon in both crop and livestock breeding for centuries, despite the additional time and labor required for hybrid breeding programs. The molecular underpinnings of heterosis have persisted as an unsolved classical problem in biology since its initial report by Charles Darwin. Studies have found few instances of gene expression outside mid-parental range in hybrids, providing little explanation for the disparity in phenotype. I conducted proteomics using multiplexed tandem mass tag (TMT) labeling to compare expression levels in maize hybrids to that of their inbred parents.
-
 [Click here to view my publication of this work](https://www.pnas.org/doi/abs/10.1073/pnas.2109332118)
+
+Heterosis, or hybrid vigor, refers to the superior performance of F1 hybrids relative to their inbred parents. The agriculture industry has utilized this phenomenon in both crop and livestock breeding for centuries, despite the additional time and labor required for hybrid breeding programs. The molecular underpinnings of heterosis have persisted as an unsolved classical problem in biology since its initial report by Charles Darwin. Studies have found few instances of gene expression outside mid-parental range in hybrids, providing little explanation for the disparity in phenotype. I conducted proteomics using multiplexed tandem mass tag (TMT) labeling to compare expression levels in maize hybrids to that of their inbred parents.
 
 [Visualizing protein and mRNA expression patterns in hybrids](/ExpressionHeterosis)
 <img src="images/expressionhet_nolegend.jpg?raw=true"/>
