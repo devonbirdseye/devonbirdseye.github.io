@@ -1,4 +1,4 @@
-## High-performance anion exchange chromatography (HPAEC) analysis of mutants
+## Project 3: High-performance anion exchange chromatography (HPAEC) analysis of mutants
 
 I found that overexpression of GSL in Arabidopsis resulted in plants with a 30% increase in accumulated galactose, while the loss-of-function mutant had a 20% reduction in galactose accumulation. Cell wall galactose content of the quadruple loss-of-function mutant in GALS1-3 and GSL was not significantly different from that of the GALS triple mutant, indicating GSL may act in the same pathway of GALS. Co-overexpression of GSL and GALS1 resulted in plants with 75% higher total cell wall galactose compared to plants overexpressing GALS1 alone, suggesting a non-redundant molecular function. The plants had no obvious growth phenotype. Stacking GALS1 and GSL overexpression could allow for engineering of feedstocks with a greater proportion of the easily-fermentable C6 sugars.
 
