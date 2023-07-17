@@ -1,6 +1,6 @@
 ## Visualizing protein expression heterosis
 
-**Project description:** Heterosis, or hybrid vigor, refers to the superior performance of F1 hybrids relative to their inbred parents. The agriculture industry has utilized this phenomenon in both crop and livestock breeding for centuries, despite the additional time and labor required for hybrid breeding programs. The molecular underpinnings of heterosis have persisted as an unsolved classical problem in biology since its initial report by Charles Darwin. Studies have found few instances of gene expression outside mid-parental range in hybrids, providing little explanation for the disparity in phenotype. I employed paired transcriptomics and proteomics using multiplexed tandem mass tag labeling to compare maize hybrids to their inbred parents (B73, Mo17, A682, and B84).
+**Project description:** Heterosis, or hybrid vigor, refers to the superior performance of F1 hybrids relative to their inbred parents. The agriculture industry has utilized this phenomenon in both crop and livestock breeding for centuries, despite the additional time and labor required for hybrid breeding programs. The molecular underpinnings of heterosis have persisted as an unsolved classical problem in biology since its initial report by Charles Darwin. Studies have found few instances of gene expression outside mid-parental range in hybrids, providing little explanation for the disparity in phenotype. We employed both transcriptomics and proteomics using multiplexed tandem mass tag labeling to compare expression levels in maize hybrids to that of their inbred parents.
 
 **Results:** I found that the abundance of plastid protein complexes, consisting of subunits encoded by both the nucleus and the plastid, are elevated in hybrids relative to mid-parent levels, which may account for the greater photosynthetic capacity of hybrids. This pattern was not reflected in their transcriptomes. Additionally, ethylene biosynthesis enzymes were significantly down-regulated in the hybrid at both the protein and RNA level; Reduced basal stress responses may contribute to increased growth.
 
@@ -8,7 +8,7 @@
 
 <img src="images/tmt.6H.plastid.jpg?raw=true"/>
 
-**Figure 1.** Expression heterosis (hybrid/mid-parent) in the proteome of six maize hybrid seedling leaves. The x-axes show that protein expression of Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Nuclear-Encoded (NE) plastid ribosomes and Plastid-Encoded (PE) plastid ribosomes are consistently expressed above mid-parent levels in hybrids. The y-axes show that expression of these proteins is variable across different inbred parents. Each datapoint represents the mean of three biological replicates.
+**Figure 1.** Expression heterosis (hybrid/mid-parent) in the proteome of six maize hybrid seedling leaves. The x-axes show that protein levels of Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Nuclear-Encoded (NE) plastid ribosomes and Plastid-Encoded (PE) plastid ribosomes are consistently expressed above mid-parent levels in hybrids. The y-axes show that expression of these proteins is variable across different inbred parents. Each datapoint represents the mean of three biological replicates.
 
 <img src="images/cpm.6H.plastid.jpg?raw=true"/>
 
