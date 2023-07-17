@@ -3,13 +3,13 @@
 ---
 ### Project 1: Investigation of the molecular basis of heterosis using proteomics and transcriptomics
 
-[Visualizing expression heterosis](/ExpressionHeterosis)
+[Visualizing protein and mRNA expression patterns in hybrids](/ExpressionHeterosis)
 <img src="images/tmt.6H.plastid.jpg?raw=true"/>
 
-[Expression heterosis correlations to plant height heterosis](/Correlations)
+[Correlation between protein levels and heterosis levels](/Correlations)
 <img src="images/correlations3.jpg?raw=true"/>
 
-[Comparison of the CV of proteomics to transcriptomics](/CV)
+[Comparison of precision in proteomics versus transcriptomics](/CV)
 <img src="images/CV.jpg?raw=true"/>
 
 ---
