@@ -1,4 +1,4 @@
-## Visualizing protein expression heterosis
+## Visualizing protein and mRNA expression patterns in hybrids
 
 **Project description:** Heterosis, or hybrid vigor, refers to the superior performance of F1 hybrids relative to their inbred parents. The agriculture industry has utilized this phenomenon in both crop and livestock breeding for centuries, despite the additional time and labor required for hybrid breeding programs. The molecular underpinnings of heterosis have persisted as an unsolved classical problem in biology since its initial report by Charles Darwin. Studies have found few instances of gene expression outside mid-parental range in hybrids, providing little explanation for the disparity in phenotype. We employed both transcriptomics and proteomics using multiplexed tandem mass tag labeling to compare expression levels in maize hybrids to that of their inbred parents.
 
