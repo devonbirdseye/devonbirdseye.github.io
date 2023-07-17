@@ -1,6 +1,6 @@
 ## Project 1: Investigation of the molecular basis of heterosis using proteomics and transcriptomics
 
-###Visualizing protein and mRNA expression patterns in hybrids
+### Visualizing protein and mRNA expression patterns in hybrids
 
 I found that the abundance of plastid protein complexes, consisting of subunits encoded by both the nucleus and the plastid, were elevated in hybrids relative to mid-parent levels (Figure 1A), which may account for greater photosynthetic capacity of hybrids. This pattern was not reflected in their transcriptomes (Figure 1B), indicating a role of post-transcriptional regulation in hybrids. Additionally, expression patterns in an ethylene biosynthesis mutant, acs2-6, mimicked those of the hybrid (Figure 2), indicating that reduced expression of ethylene biosynthesis may mediate heterosis.
 
