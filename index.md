@@ -17,6 +17,8 @@ Heterosis, or hybrid vigor, refers to the superior performance of F1 hybrids rel
 ---
 ### Project 2: Comparison of maize genome annotation versions
 
+Several versions of the maize genome have been published to date, with some containing more genes than others. This presents a challenge for proteomics studies, as choosing which genome version to search against can alter the conclusions of the study. I sought to develop a new gene set that represented the nonredundant sum of each version. Using a protein preparation from maize tissue, I conducted multiplexed tandem mass tag labeling and mass spectrometry and searched against four published genome annotations: NCBI, Uniprot, v2, and v4.
+
 [Identifying shared and unique gene sets](/v4pro)
 <img src="images/ProteinVen.png?raw=true"/>
 
