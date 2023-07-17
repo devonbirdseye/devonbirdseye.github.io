@@ -6,6 +6,8 @@
 
 [Click here to view the shiny app I developed to visualize expression heterosis of your gene of interest!](https://devonbirdseye.shinyapps.io/ExpressionViewer/)
 
+[Click here to view my publication of this work](https://www.pnas.org/doi/abs/10.1073/pnas.2109332118)
+
 <img src="images/expressionhet_legend.jpg?raw=true"/>
 
 **Figure 1.** Volcano plots showing expression levels of proteins (A) and transcripts (B) in seedling leaves of the B73xMo17 (BxM) hybrid relative to mid-parent (MP) levels. Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Nuclear-Encoded (NE) plastid ribosome subunits and Plastid-Encoded (PE) plastid ribosome subunits are color-coded. Each datapoint represents the mean of three biological replicates.
