@@ -4,7 +4,7 @@
 ### Project 1: Investigation of the molecular basis of heterosis using proteomics and transcriptomics
 
 [Visualizing protein and mRNA expression patterns in hybrids](/ExpressionHeterosis)
-<img src="images/tmt.6H.plastid.jpg?raw=true"/>
+<img src="images/expressionhet_nolegend.jpg?raw=true"/>
 
 [Correlation between protein levels and heterosis levels](/Correlations)
 <img src="images/correlations3.jpg?raw=true"/>
