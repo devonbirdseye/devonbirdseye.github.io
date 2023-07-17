@@ -4,6 +4,8 @@
 
 I found that the abundance of plastid protein complexes, consisting of subunits encoded by both the nucleus and the plastid, were elevated in hybrids relative to mid-parent levels (Figure 1A), which may account for greater photosynthetic capacity of hybrids. This pattern was not reflected in their transcriptomes (Figure 1B), indicating a role of post-transcriptional regulation in hybrids. Additionally, expression patterns in an ethylene biosynthesis mutant, acs2-6, mimicked those of the hybrid (Figure 2), indicating that reduced expression of ethylene biosynthesis may mediate heterosis.
 
+[Click here to view my publication of this work](https://www.pnas.org/doi/abs/10.1073/pnas.2109332118)
+
 [Click here to try the shiny app I developed to visualize expression heterosis of your gene of interest!](https://devonbirdseye.shinyapps.io/ExpressionViewer/)
 
 
