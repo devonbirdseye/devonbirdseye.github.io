@@ -13,7 +13,7 @@ I found that the abundance of plastid protein complexes, consisting of subunits 
 
 **Figure 1.** Volcano plots showing expression levels of proteins (A) and transcripts (B) in seedling leaves of the B73xMo17 (BxM) hybrid relative to mid-parent (MP) levels. Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Nuclear-Encoded (NE) plastid ribosome subunits and Plastid-Encoded (PE) plastid ribosome subunits are color-coded. Each datapoint represents the mean of three biological replicates.
 
-[Click here to view code](/expressionheterosis.html)
+[Click here to view code](/expressionheterosisrmd.html)
 
 <br><br>
 <img src="images/ethylene.jpg?raw=true"/>
