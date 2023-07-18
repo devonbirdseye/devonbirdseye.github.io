@@ -2,6 +2,7 @@
 library(RColorBrewer)
 library(ggridges)
 library(ggplot2)
+library(BSDA)
 set.seed(586)
 
 #import protein data
@@ -57,3 +58,26 @@ ggplot(tmt.cpm.RIL.6H.Hyb2MP.Hyb2HP.cor, mapping=aes(y=Category, x=cor, linetype
   xlab("Pearson correlation")+
   geom_vline(xintercept = 0, color="grey50")+
   xlim(-1,1)
+
+#Calculate statistics
+GOIs.cor <- list("AlphaLinAcidMet"=GOIs$AlphaLinAcidMet, "BiosynSecMet"=GOIs$BiosynSecMet,"Photosynthesis"=c(GOIs$PhANGs, GOIs$PhAPGs), "pRibo"=c(GOIs$PE.ribo, GOIs$NE.PtRibo),"CytoRibo"=GOIs$CytoRibo)
+ZtestResults <- data.frame("Alpha-linoleic acid metabolism"=numeric(), "Biosynthesis of secondary metabolites"=numeric(), "Photosynthesis"=numeric(), "Plastid ribosome"=numeric(),"Cytosolic ribosome"=numeric())
+
+for(i in 1:length(GOIs.cor)){
+  
+  sigx <- sd(tmt.RIL.6H.Hyb2MP.cor$cor[tmt.RIL.6H.Hyb2MP.cor$Gene %in% as.vector(GOIs.cor[[i]])])
+  sigy <- sd(tmt.RIL.6H.Hyb2MP.cor$cor[!tmt.RIL.6H.Hyb2MP.cor$Gene %in% as.vector(GOIs.cor[[i]])])
+  
+  ztest <- z.test(x = tmt.RIL.6H.Hyb2MP.cor$cor[tmt.RIL.6H.Hyb2MP.cor$Gene %in% as.vector(GOIs.cor[[i]])], y = tmt.RIL.6H.Hyb2MP.cor$cor[!tmt.RIL.6H.Hyb2MP.cor$Gene %in% as.vector(GOIs.cor[[i]])], sigma.x = sigx, sigma.y = sigy)
+  
+  ZtestResults[1,i]<- round(ztest$estimate[[1]], digits = 5)
+  ZtestResults[2,i]<- round(ztest$estimate[[2]], digits = 5)
+  ZtestResults[3,i]<- round(sigx, digits = 5)
+  ZtestResults[4,i]<- round(sigy, digits = 5)
+  ZtestResults[5,i]<- ztest$p.value
+  ZtestResults[6,i]<- round(ztest$statistic[[1]], digits = 5)
+  
+}
+colnames(ZtestResults) <- c("ALA metabolism", "Biosynthesis of secondary metabolites", "Photosynthesis","Plastid ribosome", "Cytosolic ribosome")
+rownames(ZtestResults) <- c("mean (group)", "mean (others)", "SD (group)", "SD (others)", "p-value", "Z-statistic")
+saveRDS(ZtestResults,"ZtestResults")

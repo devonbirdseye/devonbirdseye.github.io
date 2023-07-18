@@ -22,9 +22,6 @@ Utilizing a panel of fifteen diverse hybrids, I calculated the Pearson correlati
 library(kableExtra)
 ZtestResults <- readRDS("ZtestResults")
 
-colnames(ZtestResults) <- c("ALA metabolism", "Biosynthesis of secondary metabolites", "Photosynthesis","Plastid ribosome", "Cytosolic ribosome")
-
-rownames(ZtestResults) <- c("mean (group)", "mean (others)", "SD (group)", "SD (others)", "p-value", "Z-statistic")
 
 ZtestResults %>%
   kbl() %>%
