@@ -16,7 +16,7 @@ Utilizing a panel of fifteen diverse hybrids, I calculated the Pearson correlati
 
 <img src="images/correlations3.jpg?raw=true"/>
 
-[Click here to view source code](https://github.com/devonbirdseye/HeterosisManuscript/blob/master/HeterosisCorrelations.R)
+[Click here to view source code](https://github.com/devonbirdseye/devonbirdseye.github.io/blob/master/HeterosisCorrelations.R)
 
 ```{r, echo=FALSE}
 library(kableExtra)
