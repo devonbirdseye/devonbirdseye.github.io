@@ -80,4 +80,8 @@ for(i in 1:length(GOIs.cor)){
 }
 colnames(ZtestResults) <- c("ALA metabolism", "Biosynthesis of secondary metabolites", "Photosynthesis","Plastid ribosome", "Cytosolic ribosome")
 rownames(ZtestResults) <- c("mean (group)", "mean (others)", "SD (group)", "SD (others)", "p-value", "Z-statistic")
-saveRDS(ZtestResults,"ZtestResults")
+
+ZtestResults.t <- ZtestResults %>%
+  kbl(digits = 5) %>%
+  kable_styling(full_width = T) %>%
+  save_kable("CorStats.png", zoom=3)
