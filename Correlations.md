@@ -2,7 +2,7 @@
 
 ### Correlations between expression heterosis and plant height heterosis
 
-Utilizing a panel of fifteen diverse hybrids, I calculated the Pearson correlations between expression heterosis (hybrid/mid-parent protein expression) in seedling leaves and plant height heterosis (hybrid/midparent plant height) in adult plants. Ribosomal proteins were the most positively correlated protein groups, while stress-response proteins were the most negatively correlated, suggesting an altered growth-defense tradeoff in hybrids. These expression patterns could be used as a seedling biomarker for hybrid performance in agriculture breeding programs. mRNA levels were less correlated with plant height than protein levels, indicating a role of post-transcriptional regulation in heterosis. In the figure below, density curves represent the Pearson correlations between expression heterosis and plant height heterosis for groups of proteins that were significantly correlated.
+Utilizing a panel of fifteen diverse hybrids, I calculated the Pearson correlations between expression heterosis (hybrid/mid-parent protein expression) in seedling leaves and plant height heterosis (hybrid/mid-parent plant height) in adult plants. Ribosomal proteins were the most positively correlated protein groups, while stress-response proteins were the most negatively correlated, suggesting an altered growth-defense trade-off in hybrids. These expression patterns could be used as a seedling biomarker for hybrid performance in agriculture breeding programs. mRNA levels were less correlated with plant height than protein levels, indicating a role of post-transcriptional regulation in heterosis. In the figure below, density curves represent the Pearson correlations between expression heterosis and plant height heterosis for groups of proteins that were significantly correlated.
 
 [Click here to view my publication of this work](https://www.pnas.org/doi/abs/10.1073/pnas.2109332118)
 
@@ -10,4 +10,6 @@ Utilizing a panel of fifteen diverse hybrids, I calculated the Pearson correlati
 
 <img src="images/correlations3.jpg?raw=true"/>
 
-[Click here to view code](https://github.com/devonbirdseye/HeterosisManuscript/blob/master/HeterosisCorrelations.R)
+<embed type="text/html" src="CorStats.html" width="500" height="200">
+
+[Click here to view source code](https://github.com/devonbirdseye/HeterosisManuscript/blob/master/HeterosisCorrelations.R)
