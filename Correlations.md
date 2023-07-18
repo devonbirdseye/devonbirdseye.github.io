@@ -10,6 +10,6 @@ Utilizing a panel of fifteen diverse hybrids, I calculated the Pearson correlati
 
 <img src="images/correlations3.jpg?raw=true"/>
 
-<object data="CorStats.html"></object>
+<object data="CorStats.html" width="500" height="200"></object>
 
 [Click here to view code](https://github.com/devonbirdseye/HeterosisManuscript/blob/master/HeterosisCorrelations.R)
