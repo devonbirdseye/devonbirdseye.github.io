@@ -8,7 +8,7 @@ Heterosis, or hybrid vigor, refers to the superior performance of F1 hybrids rel
 [Visualizing protein and mRNA expression patterns in hybrids](/ExpressionHeterosis)
 <img src="images/expressionhet_nolegend.jpg?raw=true"/>
 
-[Correlation between protein levels and heterosis levels](/correlations)
+[Correlation between protein levels and heterosis levels](/correlations.html)
 <img src="images/correlations3.jpg?raw=true"/>
 
 [Comparison of precision in proteomics versus transcriptomics](/CV)
