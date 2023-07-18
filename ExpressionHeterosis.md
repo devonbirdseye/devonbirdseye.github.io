@@ -20,5 +20,7 @@ I found that the abundance of plastid protein complexes, consisting of subunits 
 
 [Click here to view source code](/ethylenemutantrmd.html)
 
+<a href="/ethylenemutantrmd.html" target="_blank">example</a>
+
 **Figure 2.** (A) Volcano plot of protein expression in the ethylene mutant (acs) in B73 background relative to B73. Each data point represents the mean of five biological replicates. Colors correspond to their expression pattern in the hybrid A682xB73 relative to mid-parent. (B) Protein levels in the ethylene mutant (acs) in B73 background relative to B73 on the x-axis, compared to expression in A682xB73 relative to MP on the y-axis. Points to the left or right of the vertical dotted line correspond to proteins that are below mid-parent or above mid-parent, respectively. Proteins above or below the horizontal dotted line correspond to proteins that are over-expressed or under-expressed in the mutant, respectively. Photosynthesis-Associated Nuclear Genes (PhANGs), Photosynthesis-Associated Plastid Genes (PhAPGs), Plastid-Encoded (PE) plastid ribosome subunits, Nuclear-Encoded (NE) plastid ribosome subunits, cytosolic ribosome subunits, and ethylene biosynthesis proteins are color-coded.
 
