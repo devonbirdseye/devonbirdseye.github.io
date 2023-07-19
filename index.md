@@ -12,7 +12,7 @@ Heterosis refers to the superior performance of F1 hybrids relative to their inb
 <img src="images/correlations3.jpg?raw=true"/>
 
 [Comparison of precision in proteomics versus transcriptomics](/CV)
-<img src="images/CV.jpg?raw=true"/>
+<img src="CoefficientVariation.png?raw=true"/>
 
 ---
 ### Project 2: Comparison of maize genome annotation versions
