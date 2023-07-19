@@ -8,7 +8,7 @@ Utilizing a panel of fifteen diverse hybrids, I calculated the Pearson correlati
 
 [Click here to try the shiny app I developed to find the correlation for your gene of interest!](https://devonbirdseye.shinyapps.io/ExpressionViewer/)
 
-<img src="images/correlations3.jpg?raw=true"/>
+<img src="correlations.jpg?raw=true"/>
 
 <img src="CorStats.png?raw=true"/>
 
