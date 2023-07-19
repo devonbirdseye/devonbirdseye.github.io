@@ -9,7 +9,7 @@ Heterosis refers to the superior performance of F1 hybrids relative to their inb
 <img src="images/expressionhet_nolegend.jpg?raw=true"/>
 
 [Correlation between protein levels and heterosis levels](/Correlations)
-<img src="correlations.jpg.jpg?raw=true"/>
+<img src="correlations_nolegend.jpg.jpg?raw=true"/>
 
 [Comparison of precision in proteomics versus transcriptomics](/CV)
 <img src="CoefficientVariation.png?raw=true"/>
