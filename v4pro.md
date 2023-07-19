@@ -8,4 +8,4 @@ I found there to be 12,724 unique proteins in my dataset, with v4 being the most
 
 **Figure 1.** Venn diagram representing the overlap of protein-coding genes from four genome annotations.
 
-[Click here to view code](https://github.com/devonbirdseye/V4pro/blob/master/V4pro.Rmd)
+<a href="https://github.com/devonbirdseye/V4pro/blob/master/V4pro.Rmd" target="_blank">Click here to view source code</a>
