@@ -54,28 +54,22 @@ Stonebloom S, Ebert B, Xiong G, Pattathil S, **Birdseye D**, Lao J, Pauly M, Hah
 ## Conference Presentations
 
 **Maize Genetics Meeting, virtual, 2020**<br>
-Proteomic analyses reveal a molecular phenotype in maize hybrids and a correlation between ribosomal protein abundance and growth heterosis (Oral)<br>
-Birdseye D, Shen Z, Gates L, Zhou P, Springer NM, Schmelz EA, Bai H, Briggs SP.
+*Proteomic analyses reveal a molecular phenotype in maize hybrids and a correlation between ribosomal protein abundance and growth heterosis*, Birdseye D, Shen Z, Gates L, Zhou P, Springer NM, Schmelz EA, Bai H, Briggs SP. (Oral)
 
-**American Society of Plant Biologists 2020, virtual**<br>
-Proteomic analyses reveal a molecular phenotype in maize hybrids and a correlation between ribosomal protein abundance and growth heterosis (Poster)<br>
-Birdseye D, Shen Z, Gates L, Zhou P, Springer NM, Schmelz EA, Bai H, Briggs SP.
+**American Society of Plant Biologists, virtual, 2020**<br>
+*Proteomic analyses reveal a molecular phenotype in maize hybrids and a correlation between ribosomal protein abundance and growth heterosis*, Birdseye D, Shen Z, Gates L, Zhou P, Springer NM, Schmelz EA, Bai H, Briggs SP. (Poster)
 
 **Cell Wall Research Conference, Asilomar, California, 2018**<br>
-Characterization of a glycosyltransferase involved in beta-1,4-galactan biosynthesis in Arabidopsis (Poster)<br>
-Birdseye D, Stonebloom S, Scheller HV.
+*Characterization of a glycosyltransferase involved in beta-1,4-galactan biosynthesis in Arabidopsis*, Birdseye D, Stonebloom S, Scheller HV. (Poster)
 
 **Plant Cell Wall Biology Conference, Dalian, China, 2017**<br>
-Beta-1,4-galactan biosynthesis and engineering to improve biomass for biofuels (Oral)<br>
-Birdseye D, Ebert B, Laursen T, Pidatala V, Aznar A, Chalvin C, Eudes A, Scheller HV.
+*Beta-1,4-galactan biosynthesis and engineering to improve biomass for biofuels*, Birdseye D, Ebert B, Laursen T, Pidatala V, Aznar A, Chalvin C, Eudes A, Scheller HV. (Oral)
 
 **Cell Wall Biology Conference, Crete, Greece, 2016**<br>
-Characterization of beta-1,4-galactan synthases in Arabidopsis; plants devoid of beta-1,4-galactan have normal growth and development (Poster)<br>
-Birdseye D, Ebert B, Birdseye D, Liwanag A, Laursen T, Rennie E, Xiaoyuan G, Catena M, Rautengarten C, Stonebloom S, Pidatala V, Andersen MCF, Cheetamun R, Mortimer J, Bacic A, Heazlewood J, Clausen M, Willats WGT, Scheller HV. 
+*Characterization of beta-1,4-galactan synthases in Arabidopsis; plants devoid of beta-1,4-galactan have normal growth and development*, Birdseye D, Ebert B, Birdseye D, Liwanag A, Laursen T, Rennie E, Xiaoyuan G, Catena M, Rautengarten C, Stonebloom S, Pidatala V, Andersen MCF, Cheetamun R, Mortimer J, Bacic A, Heazlewood J, Clausen M, Willats WGT, Scheller HV. (Poster)
 
 **American Society of Plant Biologists Conference, Portland, OR, 2014**<br>
-Identification of the genetic basis of compound leaf variation in columbines (Poster)<br>
-Birdseye, D, Ballerini, E, Hodges, S. 
+*Identification of the genetic basis of compound leaf variation in columbines*, Birdseye, D, Ballerini, E, Hodges, S. (Poster)
 
 ## Awards and Fellowships
 
