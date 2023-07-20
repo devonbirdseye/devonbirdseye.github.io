@@ -7,4 +7,4 @@ I found that overexpression of GSL in Arabidopsis resulted in plants with a 30% 
 
 **Figure 1.** HPAEC analysis of cell wall material from Arabidopsis leaves, showing the molar percentage of sugar content. Data represent averages of seven biological replicates. Error bars represent standard deviations.
 
-[Click here to view code](https://github.com/devonbirdseye/DUF23/blob/master/DUF23.Rmd)
+<a href="https://github.com/devonbirdseye/DUF23/blob/master/DUF23.Rmd" target="_blank">Click here to view this project on GitHub</a>
