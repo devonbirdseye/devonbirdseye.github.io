@@ -13,13 +13,16 @@ B.S., Biology, June 2014, University of California Santa Barbara
 
 ## Research Experience
 
-**UC San Diego, Steven Briggs’ Lab**, September 2018 - Present<br>
+**UC San Diego, Steven Briggs’ Lab**<br>
+September 2018 - Present<br>
 Investigated the molecular basis of heterosis by generating and analyzing proteomics and transcriptomics datasets in R to conduct pathway enrichment, correlation analyses, data visualization, and build shiny apps
 
-**Joint BioEnergy Institute, Henrik Scheller’s Lab**, September 2014 - August 2018<br>
+**Joint BioEnergy Institute, Henrik Scheller’s Lab**<br>
+September 2014 - August 2018<br>
 Characterized enzymes involved in cell wall biosynthesis using HPLC, size-exclusion chromatography, immunolabeling, radioactivity assays, qPCR, western blot, and data analysis and visualization in R
 
-**UC Santa Barbara, Scott Hodges’ Lab**, November 2012 - June 2014<br>
+**UC Santa Barbara, Scott Hodges’ Lab**<br>
+November 2012 - June 2014<br>
 Identified genomic loci associated with phenotypes by QTL mapping and conducted phylogenetic analyses of transcription factor families
 
 ## Publications
