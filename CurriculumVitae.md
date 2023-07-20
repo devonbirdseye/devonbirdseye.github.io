@@ -10,9 +10,11 @@
 
 ## Education
 
-**Ph.D.**, Biology, July 2023, University of California San Diego
+**Ph.D.**, Biology, July 2023<br>
+University of California San Diego
 
-**B.S.**, Biology, June 2014, University of California Santa Barbara
+**B.S.**, Biology, June 2014<br>
+University of California Santa Barbara
 
 ## Research Experience
 
