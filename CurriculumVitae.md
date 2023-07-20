@@ -2,7 +2,9 @@
 
 ## Contact
 
-(415)-265-4321    dbirdseye@gmail.com
+(415)-265-4321
+
+dbirdseye@gmail.com
 
 ## Education
 
