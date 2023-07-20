@@ -2,11 +2,11 @@
 
 ## Contact
 
-(415)-265-4321<br>
-dbirdseye@gmail.com<br>
-[linkedin.com/in/devon-birdseye](linkedin.com/in/devon-birdseye)<br>
-[github.com/devonbirdseye](github.com/devonbirdseye)<br>
-[orcid.org/0000-0003-1767-8486](orcid.org/0000-0003-1767-8486)
+**Phone:** (415)-265-4321<br>
+**Email:** dbirdseye@gmail.com<br>
+**LinkedIn:** [linkedin.com/in/devon-birdseye](linkedin.com/in/devon-birdseye)<br>
+**GitHub:** [github.com/devonbirdseye](github.com/devonbirdseye)<br>
+**ORCID:** [orcid.org/0000-0003-1767-8486](orcid.org/0000-0003-1767-8486)
 
 ## Education
 
