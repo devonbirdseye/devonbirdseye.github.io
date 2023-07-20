@@ -11,4 +11,4 @@ I found that the cell walls of GSL-silenced and overexpressor plants to have alt
 
 **Figure 2.** ELISA analysis of fractionated cell wall material from leaf tissue of plants overexpressing GSL with selected plant-glycan directed monoclonal antibodies. Heat map shows differences in antibody binding in 35s:AtGSL plants compared to wild type. Compared with wild type, xyloglucan and pectin epitopes were decreased in easily-extractable fractions and enriched in the more tightly-bound cell wall fractions. AGP epitope profiles were differentially altered, with an overall increase across fractions.
 
-<a href="https://github.com/devonbirdseye/DUF23/blob/master/DUF23.Rmd" target="_blank">Click here to view this project on GitHub</a>
+<a href="/DUF23.html" target="_blank">Click here to view source code</a>
