@@ -8,9 +8,9 @@ description: >
   research through compelling visuals and bridging the gap between data and discovery.
   <br><br>
   <a href="/CurriculumVitae">Curriculum Vitae</a> 
-  <br>
-  <a href="https://github.com/devonbirdseye"target="_blank"><img src="/githublogo.png" style="width:40px;height:20px;"></a>
-  <a href="https://www.linkedin.com/in/devon-birdseye/"target="_blank"><img src="/linkedin.png" style="width:40px;height:20px;"></a>
+  <br><br>
+  <a href="https://github.com/devonbirdseye"target="_blank"><img src="/githublogo.png" style="width:45px;height:30px;"></a>
+  <a href="https://www.linkedin.com/in/devon-birdseye/"target="_blank"><img src="/linkedin.png" style="width:45px;height:20px;"></a>
   <a href="https://orcid.org/0000-0003-1767-8486"target="_blank"><img src="/orcidlogo.png" style="width:40px;height:20px;"></a>
   
 theme: jekyll-theme-minimal
