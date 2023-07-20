@@ -31,5 +31,5 @@ Pectins are the most complex polysaccharides of plant cell walls, with an estima
 <img src="images/Fig_DUF23OE_ELISA.png?raw=true"/>
 
 [High-performance anion exchange chromatography analysis of mutants](/duf23.hpaec)
-<img src="images/180424_DUF23_HPAEC3.png?raw=true"/>
+<img src="180424_DUF23_HPAEC_bySugar.png?raw=true"/>
 
