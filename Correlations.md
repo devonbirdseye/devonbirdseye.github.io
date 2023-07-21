@@ -10,6 +10,7 @@ Utilizing a panel of fifteen diverse hybrids, I calculated the Pearson correlati
 
 <img src="correlations.jpg?raw=true"/>
 
+Statistical analysis
 <img src="CorStats.png?raw=true"/>
 
 <a href="/correlationsrmd.html" target="_blank">Click here to view source code</a>
