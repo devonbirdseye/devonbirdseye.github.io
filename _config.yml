@@ -11,9 +11,9 @@ description: >
   <br><br>
   <a href="https://github.com/devonbirdseye"target="_blank"><img src="/githublogo.png" style="width:60px;height:20px;"></a>
   &nbsp
-  <a href="https://www.linkedin.com/in/devon-birdseye/"target="_blank"><img src="/linkedin.png" style="width:50px;height:20px;"></a>
+  <a href="https://www.linkedin.com/in/devon-birdseye/"target="_blank"><img src="/linkedin.png" style="width:60px;height:20px;"></a>
   &nbsp
-  <a href="https://orcid.org/0000-0003-1767-8486"target="_blank"><img src="/orcidlogo.png" style="width:40px;height:20px;"></a>
+  <a href="https://orcid.org/0000-0003-1767-8486"target="_blank"><img src="/orcidlogo.png" style="width:50px;height:20px;"></a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-186709496-1 # your Google Analytics tracking ID here
