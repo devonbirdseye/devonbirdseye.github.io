@@ -80,11 +80,9 @@ Stonebloom S, Ebert B, Xiong G, Pattathil S, **Birdseye D**, Lao J, Pauly M, Hah
 
 National Science Foundation Graduate Research Fellowship, 2019
 
-C.H. Muller Award for Excellence in the Plant Sciences, University of California, Santa Barbara, 2014
+C.H. Muller Award for Excellence in the Plant Sciences, 2014
 
-Distinction in the Major, Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, 2014
-
-Academic Honors, University of California, Santa Barbara, 2014
+Distinction in the Major, University of California Santa Barbara, 2014
 
 ## Teaching Experience
 
