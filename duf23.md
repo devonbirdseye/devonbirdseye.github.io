@@ -3,7 +3,7 @@
 
 I found that the cell walls of GSL-silenced and overexpressor plants to have altered glycan linkages consistent with a role in β-1,4-galactan biosynthesis.
 
-<a href="/DUF23.html" target="_blank">Click here to view source code</a>
+<a href="/DUF23.html" target="_blank">View source code</a>
 
 <img src="images/Fig_Nb13373_CoMPP.png?raw=true"/>
 
