@@ -20,15 +20,24 @@
 
 **UC San Diego, Steven Briggs’ Lab**<br>
 *September 2018 - Present*<br>
-Investigated the molecular basis of heterosis by generating and analyzing proteomics and transcriptomics datasets in R to conduct pathway enrichment, correlation analyses, data visualization, and build shiny apps
+* Identified molecular biomarkers associated with heterosis by analyzing multi-omics datasets and correlating RNA and protein expression to phenotypes
+* Characterized altered gene regulation and expression networks in hybrids by conducting differential expression analyses, gene ontology enrichment, and pathway mapping
+* Identified the role of post-transcriptional regulation in heterosis by comparing paired transcriptomics and proteomics datasets
+* Built a publicly-available web application for interactive data visualization
 
 **Joint BioEnergy Institute, Henrik Scheller’s Lab**<br>
 *September 2014 - August 2018*<br>
-Characterized enzymes involved in cell wall biosynthesis using HPLC, size-exclusion chromatography, immunolabeling, radioactivity assays, qPCR, western blot, and data analysis and visualization in R
+* Characterized glycosyltransferases and nucleotide sugar transporters by radioactivity assays, western blot, and RNA-seq of mutants and overexpression lines
+* Analyzed cell wall phenotypes by high-performance anion-exchange chromatography and size-exclusion chromatography, and conducted data analysis and visualization in R
+* Performed yeast-one-hybrid assay to identify candidate genes involved in rubber biosynthesis
 
 **UC Santa Barbara, Scott Hodges’ Lab**<br>
 *November 2012 - June 2014*<br>
-Identified genomic loci associated with phenotypes by QTL mapping and conducted phylogenetic analyses of transcription factor families
+* Identified genomic loci associated with phenotypes in an F2 population by DNA extraction, genomic library preparation, Illumina sequencing, and QTL mapping
+
+**UC Santa Barbara, Thomas Weimbs’ Lab**<br>
+*July 2012 - December 2013*<br>
+* Evaluated conservation of a novel gene implicated in polycystic kidney disease by conducting multiple sequence alignment and phylogenetic analysis
 
 ## Publications
 
