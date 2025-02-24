@@ -2,7 +2,6 @@
 
 ## Contact
 
-**Phone:** (415)-265-4321<br>
 **Email:** dbirdseye@gmail.com<br>
 **LinkedIn:** [linkedin.com/in/devon-birdseye](linkedin.com/in/devon-birdseye)<br>
 **GitHub:** [github.com/devonbirdseye](github.com/devonbirdseye)<br>
@@ -23,7 +22,7 @@
 * Identified molecular biomarkers associated with heterosis by analyzing multi-omics datasets and correlating RNA and protein expression to phenotypes
 * Characterized altered gene regulation and expression networks in hybrids by conducting differential expression analyses, gene ontology enrichment, and pathway mapping
 * Identified the role of post-transcriptional regulation in heterosis by comparing paired transcriptomics and proteomics datasets
-* Built a publicly-available web application for interactive data visualization
+* Built user-friendly applications for interactive data visualization
 
 **Joint BioEnergy Institute, Henrik Scheller’s Lab**<br>
 *September 2014 - August 2018*<br>
